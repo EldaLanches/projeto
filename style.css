@@ -23,7 +23,7 @@ body {
 }
 
 
-<!-- background-image: url("image.png"); IMAGEM DE FUNDO E FICA NO PRINCIPAL-->
+<-- background-image: url("image.png"); IMAGEM DE FUNDO E FICA NO PRINCIPAL-->
 .principal {
     background-repeat: no-repeat;
     background-size: contain;
